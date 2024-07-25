@@ -22,7 +22,7 @@ install_requires = [
     'elasticsearch-async==6.2.0',
     'redis==3.5.0',
     'asyncio_redis==0.15.1',
-    'aiohttp==3.6.2',
+    'aiohttp==3.9.4',
     'aiopg==0.15',
     'sqlalchemy==1.2.14'
 ]
